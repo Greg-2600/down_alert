@@ -13,4 +13,5 @@ TODO:
 Usage:
 
 echo "host.mydoma.in" > targets.txt
+
 bash down_alert.sh
